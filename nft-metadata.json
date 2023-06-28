@@ -1,0 +1,15 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Protein",
+            "value": "Salmon"
+        },
+        {
+            "trait_type": "Carbs",
+            "value": "Rice"
+        }
+    ],
+    "description": "A delicious salmon roll",
+    "image": "ipfs://QmaoVF8NHFFTi4JUr5qgjE1peGbAW3ksfnUytoC9gnvqX9",
+    "name": "Sushi"
+}
